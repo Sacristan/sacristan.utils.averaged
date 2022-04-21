@@ -1,0 +1,16 @@
+{
+    "name": "sacristan.utils.averaged",
+    "version": "0.0.1",
+    "displayName": "Averaging calculations",
+    "description": "Averaging calculations",
+    "unity": "2018.1",
+    "keywords": [
+        "average",
+        "math"
+    ],
+    "author": {
+        "name": "Girts Kesteris",
+        "email": "girts.kesteris@gmail.com",
+        "url": "https://girtskesteris.xyz"
+    }
+}
